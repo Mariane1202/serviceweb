@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = marianef
+	email = mariane.faye@snsoftware.com
+# Please adapt and uncomment the following lines:
+#	name = Mariane Faye
+#	email = Mariane@snsoftware.com
+[safe]
+	directory = C:/SprintbootCI-CD
+[core]
+	autocrlf = true
+[credential "http://gitlab-old.snsoftware.com"]
+	provider = generic
